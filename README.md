@@ -10,4 +10,4 @@ You can create chatrooms and join to chat with whoever is in that room at that m
 ## Screenshots
 ![Screenshot](app_ss1.png)
 ![Screenshot](app_ss2.png)
-![Screenshot](app_ss3.png)
+![Screenshot](app_ss3.jpg)
