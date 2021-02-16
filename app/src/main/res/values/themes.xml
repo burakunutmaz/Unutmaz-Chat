@@ -1,0 +1,60 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.UnutmazChatApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_three</item>
+        <item name="colorPrimaryVariant">@color/color_four</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="message_box">
+        <item name="cornerSizeTopRight">70%</item>
+        <item name="cornerSizeTopLeft">70%</item>
+        <item name="cornerSizeBottomLeft">70%</item>
+        <item name="backgroundTint">@color/purple_200</item>
+    </style>
+
+    <style name="buttons">
+        <item name="cornerRadius">10dp</item>
+        <item name="fontFamily">@font/bungee</item>
+        <item name="rippleColor">@color/color_two</item>
+        <item name="elevation">10dp</item>
+    </style>
+
+    <style name="secondaryButton">
+        <item name="cornerRadius">10dp</item>
+        <item name="fontFamily">@font/bungee</item>
+        <item name="backgroundTint">@color/color_one</item>
+        <item name="rippleColor">@color/color_two</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textColor">@color/color_three</item>
+        <item name="elevation">10dp</item>
+    </style>
+
+    <style name="ovalButton">
+        <item name="icon">@drawable/ic_baseline_add_24</item>
+        <item name="android:textSize">18sp</item>
+        <item name="iconSize">40dp</item>
+        <item name="cornerSizeBottomLeft">50%</item>
+        <item name="cornerSizeTopLeft">50%</item>
+        <item name="cornerFamily">rounded</item>
+        <item name="backgroundTint">@color/color_two</item>
+    </style>
+
+    <style name="infoButton">
+        <item name="icon">@drawable/ic_baseline_info_24</item>
+        <item name="iconSize">24dp</item>
+    </style>
+
+    <style name="App.ToolbarStyle" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
+        <item name="colorOnPrimary">@color/color_one</item>
+    </style>
+
+</resources>

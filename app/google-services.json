@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480767839777",
+    "project_id": "unutmaz-chat",
+    "storage_bucket": "unutmaz-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480767839777:android:0a657704d6ac95e51d5d60",
+        "android_client_info": {
+          "package_name": "com.example.unutmazchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480767839777-t4mj7b6oup5dg3jecpghm4sm3qohlhn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unutmazchatapp",
+            "certificate_hash": "62a6fe794fbc98f15c874964b08aab451e5c8994"
+          }
+        },
+        {
+          "client_id": "480767839777-4830v8m0ebcm2l7s68c789dhvgm959vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEvW7oIhuNoermnPhtgzOMXXwSue2GQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480767839777-4830v8m0ebcm2l7s68c789dhvgm959vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
